@@ -1,0 +1,1 @@
+import v from './script';console.log('fdsa')console.log(card)
